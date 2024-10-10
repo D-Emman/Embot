@@ -26,21 +26,10 @@ TensorFlow Lite plugin provides a dart API for accessing TensorFlow Lite interpr
 https://pub.dev/packages/tflite_flutter/install
 
 ## Support
-If you're interested in contributing, please let me know emailing me to marcoscarlomagno1@gmail.com
+If you're interested in contributing, please let me know messaging me on 0703 012 3734
 
-## Setup
-
-1- Clone the project:
-
-```
-git clone https://github.com/MCarlomagno/FaceRecognitionAuth.git
-```
-2- Open the folder:
-
-```
-cd FaceRecognitionAuth
-```
-3- Install dependencies:
+## 
+Install dependencies:
 
 ```
 flutter pub get
@@ -49,7 +38,7 @@ Run in iOS directory
 ```
 pod install
 ```
-4- Run on device (Check device connected or any virtual device running):
+ Run on device (Check device connected or any virtual device running):
 
 ```
 flutter run
